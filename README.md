@@ -1,2 +1,2 @@
 # CODSOFT
-Data Science internship tasks completed for CodSoft (Batch B69)
+Data Science internship tasks completed for CodSoft
